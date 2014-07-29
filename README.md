@@ -18,7 +18,7 @@ This is basically designed so you can have a Donor Menu without the hassle, just
 }
 ```
 
-**Plugin Dependencies:**
+##Plugin Dependencies
 
 [Admin Overrides](https://wiki.alliedmods.net/Overriding_Command_Access_(SourceMod))
 
@@ -28,7 +28,7 @@ This is basically designed so you can have a Donor Menu without the hassle, just
 
 [SourceBans Donations Control](https://forums.alliedmods.net/showthread.php?t=221742)
 
-##CVARS
+##CVars
 sm_donormenu_version (Do Not Touch this!)
 
 ##Commands
