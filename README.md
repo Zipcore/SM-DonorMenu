@@ -1,4 +1,4 @@
-SM-DonorMenu
+[ANY] Donor Menu
 ============
 This is basically designed so you can have a Donor Menu without the hassle, just put the VIP commands in donors.cfg.
 
