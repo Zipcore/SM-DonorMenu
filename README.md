@@ -22,12 +22,6 @@ This is basically designed so you can have a Donor Menu without the hassle, just
 
 [Admin Overrides](https://wiki.alliedmods.net/Overriding_Command_Access_(SourceMod))
 
-**Recommended Addons:**
-
-[SourceBans](https://forums.alliedmods.net/showthread.php?t=61000)
-
-[SourceBans Donations Control](https://forums.alliedmods.net/showthread.php?t=221742)
-
 ##CVars
 sm_donormenu_version (Do Not Touch this!)
 
