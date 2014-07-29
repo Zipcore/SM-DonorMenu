@@ -46,5 +46,15 @@ sm_donormenu_version
 
 "donors.cfg" --> "<game>/addons/sourcemod/configs"
 
+Put "sm_donors" in "configs/admin_overrides.cfg"
+
+**Example:** admin_overrides.cfg
+```
+Overrides
+{
+	"sm_donor"  "a"
+}
+```
+
 ##Credits
 This is a modified version of [HelpMenu v0.3](https://forums.alliedmods.net/showthread.php?t=72576)
