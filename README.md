@@ -52,6 +52,7 @@ Put "sm_donors" in "configs/admin_overrides.cfg"
 ```
 Overrides
 {
+	"command"//<--Put Command Here	"flag"//<--Put Admin Flag Here
 	"sm_donor"  "a"
 }
 ```
