@@ -29,7 +29,7 @@ This is basically designed so you can have a Donor Menu without the hassle, just
 [SourceBans Donations Control](https://forums.alliedmods.net/showthread.php?t=221742)
 
 ##CVARS
-sm_donormenu_version
+sm_donormenu_version (Do Not Touch this!)
 
 ##Commands
 **Console:** sm_donor
