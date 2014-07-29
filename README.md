@@ -6,16 +6,15 @@ This is basically designed so you can have a Donor Menu without the hassle, just
 
 **Donors.cfg:** 
 ```
-"Donor"
+"Donor Menu"
 {
-	"<MenuName>"
-	{
-		"items"
-		{
-			"<sm_command>" "<Command Name>"
-			"<sm_command2>" "<Example Name>"
-		}
-	}
+    "title"    "Menu Title"
+    "type"     "list"
+    "items"
+    {
+        "sm_example"	"Here's an informational item"
+        "sm_example2"  	"This launches a client command when selected"
+    }
 }
 ```
 *Modify the items in <> only!*
