@@ -17,7 +17,6 @@ This is basically designed so you can have a Donor Menu without the hassle, just
     }
 }
 ```
-*Modify the items in <> only!*
 
 **Plugin Dependencies:**
 
