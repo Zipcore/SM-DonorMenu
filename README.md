@@ -34,7 +34,7 @@ This is basically designed so you can have a Donor Menu without the hassle, just
 sm_donormenu_version
 
 ##Commands
-*Console:** sm_donor
+**Console:** sm_donor
 
 **Chat:** !donor
 
