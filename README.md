@@ -1,6 +1,6 @@
 SM-DonorMenu
 ============
-This is basically designed so you can have a Donor Menu without the hassle, just put the VIP commands in donors.cfg.
+This is basically designed so you can have a Donor Menu without the hassle, just put the VIP commands in donors.cfg. This is especially good if you use [URL="https://forums.alliedmods.net/showthread.php?t=61000"]SourceBans[/URL] and [URL="https://forums.alliedmods.net/showthread.php?t=221742"]SourceBans Donation Control[/URL] to manage your donors (Make donors have a custom flag).
 
 **Put the commands going in "donors.cfg" in "admin_overrides.cfg" so only admins and donors can use it!**
 
@@ -27,8 +27,7 @@ This is basically designed so you can have a Donor Menu without the hassle, just
 **Recommended Addons:**
 
 [SourceBans](https://forums.alliedmods.net/showthread.php?t=61000)
-
-[SourceBans Donations Control](https://forums.alliedmods.net/showthread.php?t=221742)
+[sourceBans Donations Control](https://forums.alliedmods.net/showthread.php?t=221742)
 
 ##CVARS
 sm_donormenu_version
