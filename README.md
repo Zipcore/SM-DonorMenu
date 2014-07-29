@@ -18,18 +18,19 @@ This is basically designed so you can have a Donor Menu without the hassle, just
 	}
 }
 ```
-[/CODE]
-Modify the items in <> only!
+*Modify the items in <> only!*
 
 **Plugin Dependencies:**
+
 [Admin Overrides}(https://wiki.alliedmods.net/Overriding_Command_Access_(SourceMod))
 
 **Recommended Addons:**
+
 [SourceBans](https://forums.alliedmods.net/showthread.php?t=61000)
 
 [SourceBans Donations Control](https://forums.alliedmods.net/showthread.php?t=221742)
 
-##CVARS:
+##CVARS
 sm_donormenu_version
 
 ##Commands
