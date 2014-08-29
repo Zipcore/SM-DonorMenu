@@ -1,0 +1,26 @@
+﻿"Phrases"
+{
+	"welcome message"
+	{
+		"#format"	""
+		"en"		"Are you a donor? Type \x04!donor\x01 in chat to get the Donor Menu!"
+	}
+	
+	"menu title"
+	{
+		"#format"	""
+		"en"		"Donor Menu"
+	}
+	
+	"maps menu title"
+	{
+		"#format"	"{1:D}"
+		"en"		"Current Rotation ({1} maps)"
+	}
+	
+	"online admins menu title"
+	{
+		"#format"	""
+		"en"		"Online Admins"
+	}
+}
