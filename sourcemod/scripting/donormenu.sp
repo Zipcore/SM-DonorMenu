@@ -1,6 +1,6 @@
 /*
  * In-game Donor Menu
- * Modified by Sarabveer (admin@v33r.tk)
+ * Modified by Sarabveer (admin@v33r.cf)
  * Originally Written by chundo (chundo@mefightclub.com)
  *
  * Licensed under the GPL version 2 or above
